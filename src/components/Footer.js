@@ -10,17 +10,17 @@ function Footer() {
     <div className="footer">
       <div className="socialMedia">
 
-        <a href="https://www.linkedin.com/in/kwabena-sasu-boakye-34326913a" target="_blank" rel="noopener noreferrer">
+        {/* <a href="https://www.linkedin.com/in/kwabena-sasu-boakye-34326913a" target="_blank" rel="noopener noreferrer">
         <InstagramIcon />
-        </a>
+        </a> */}
 
-        <a href="https://www.linkedin.com/in/kwabena-sasu-boakye-34326913a" target="_blank" rel="noopener noreferrer">
+        <a href="https://x.com/kwagyei_?t=ecvgpC3Ztuu4HmqeyVxbMg&s=09" target="_blank" rel="noopener noreferrer">
         <TwitterIcon />
         </a>
 
-        <a href="https://www.linkedin.com/in/kwabena-sasu-boakye-34326913a" target="_blank" rel="noopener noreferrer">
+        {/* <a href="https://www.linkedin.com/in/kwabena-sasu-boakye-34326913a" target="_blank" rel="noopener noreferrer">
         <FacebookIcon />
-        </a>
+        </a> */}
 
         <a href="https://www.linkedin.com/in/kwabena-sasu-boakye-34326913a" target="_blank" rel="noopener noreferrer">
             <LinkedInIcon />
