@@ -32,7 +32,7 @@ function Experience() {
           icon={<SchoolIcon />}
         >
           <h3 className="vertical-timeline-element-title">
-            University of Ghana, Accra, Ghana.
+            University of Ghana Business School, Accra, Ghana.
           </h3>
           <p> MBA Management Information Systems</p>
         </VerticalTimelineElement>
